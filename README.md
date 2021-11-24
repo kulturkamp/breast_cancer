@@ -72,7 +72,7 @@ selected_features = c('diagnosis', 'radius_mean', 'texture_mean', 'smoothness_me
     <td class="tg-0pky">0.89</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Naive Nayes</td>
+    <td class="tg-0pky">Naive Bayes</td>
     <td class="tg-0pky">0.94</td>
     <td class="tg-0pky">0.96</td>
     <td class="tg-0pky">0.9</td>
